@@ -1,7 +1,6 @@
 {
-  "location": null,
-  "semver": false,
-  "parser_version": "aa71f63de226c5592dfbfc1f29949522d7c95fac",
+  "lang": "gotmpl",
   "url": "https://github.com/ngalaiko/tree-sitter-go-template",
-  "lang": "gotmpl"
+  "semver": false,
+  "parser_version": "aa71f63de226c5592dfbfc1f29949522d7c95fac"
 }
